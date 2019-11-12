@@ -14,3 +14,4 @@ A ideia do grupo é fortalecer e incentivar os anulos a participarem da maratona
   - Demonstrar como usa o GitHub e como espero que a galera use para formar um banco
   de dados para o compartilhamento de algoritimos
   - Iniciar um Exercicio em grupo 
+  - Uso de uma maneira diferente do IF utilizando '?'
